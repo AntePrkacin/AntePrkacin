@@ -1,4 +1,3 @@
-### Hi there 👋
+### Hi, I'm Ante 👋
 
-- 🏢 Computer Science Student at FER
-- 💻 Prijava javnih ostecenja (Backend) - [https://github.com/franFodor/CestaFix](https://github.com/AntePrkacin/CestaFix_Fork) 
+- 🏢 Computer Science student at [FER](https://www.fer.unizg.hr/)
